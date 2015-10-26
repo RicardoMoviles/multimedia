@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">multimedia</string>
+
+    <string name="bMover">Mover</string>
+    <string name="bGirar">Girar</string>
+    <string name="bAmpliar">Ampliar</string>
+    <string name="bTransparente">Transparente</string>
+    </resources>
